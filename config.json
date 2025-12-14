@@ -1,0 +1,9 @@
+{
+    "blog_topic": "IT новости",
+    "ai_model": "gigachat",
+    "post_style": "аналитический",
+    "group_id": "",
+    "access_token": "",
+    "generate_images": false,
+    "posting_frequency": 24
+}

@@ -1,0 +1,8 @@
+pygame>=2.6.0
+pillow>=10.0.0
+requests>=2.31.0
+feedparser>=6.0.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+# Примечание: GigaChat, YandexGPT и OpenRouter используют HTTP-запросы, поэтому не требуют отдельных пакетов
+# Для работы с VK API также достаточно requests
